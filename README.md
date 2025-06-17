@@ -5,6 +5,10 @@ Projects developed during the course "React from Zero to Mastery" from Udemy | P
 Development of a React functional photo blog, using Firebase as the BackEnd.
 (Desenvolvimento de um blog de fotos funcional em React, utilizando o Firebase como BackEnd.)
 
+![Screenshot from 2025-06-17 19-56-54](https://github.com/user-attachments/assets/d3486c12-42d5-4bce-bbda-7d4a593a549c)
+
+![Screenshot from 2025-06-17 19-58-28](https://github.com/user-attachments/assets/99297e59-9c2b-4191-9e62-7eb041045321)
+
 ## 2 - Reactgram
 Development of a React functional Insagram clone, using a full NodeJS Express application for the BackEnd.
 (Desenvolvimento de um clone funcional do Instagram em React, utilizanado uma aplicação em NodeJS Express completamente implementada para BackEnd.)
