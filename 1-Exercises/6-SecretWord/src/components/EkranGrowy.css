@@ -1,0 +1,80 @@
+
+.gra h1 {
+    font-size: 2.5em;
+  }
+
+  .gra p {
+    margin: 10px auto;
+    background-color: #dc1400;
+    color: #fff;
+    padding: 10px;
+    border: 3px solid #000;
+  }
+  
+  .wynik {
+    padding: 10px;
+    border: 3px solid #000;
+    background-color: #000;
+    color: #fff;
+  }
+
+  .wynik span {
+    font-weight: bold;
+    color: #ecfa00;
+  }
+  
+  .wskazowka span {
+    color: #dc1400;
+    background-color: #ddd;
+    border-radius: 5px;
+    padding: 3px;
+    text-transform: uppercase;
+  }
+  
+  .skladnikSlowa {
+    margin: 1.5em;
+    padding: 1.5em;
+    border: 20px solid #ecfa00;
+    background-color: #000000;
+    display: flex;
+  }
+  
+  .litera,
+  .pustyKwadrat {
+    font-size: 70px;
+    line-height: 1.5;
+    border: 3px solid #ecfa00;
+    height: 100px;
+    width: 100px;
+    text-transform: uppercase;
+    background-color: #dc1400;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .skladnikLitery p {
+    margin-bottom: 1.2em;
+    font-weight: italic;
+  }
+  
+  .skladnikLitery form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .skladnikLitery input {
+    height: 50px;
+    width: 50px;
+    font-size: 2em;
+    text-align: center;
+    margin-right: 1em;
+  }
+
+  .skladnikBledowychLiter span {
+    color: white;
+    background-color: #000;
+    text-transform: uppercase;
+    border-radius: 2px;
+    padding: 5px;
+  }

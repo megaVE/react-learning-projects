@@ -1,0 +1,10 @@
+.wstepny_ekran h1 {
+    font-size: 4em;
+    color: #dc1400;
+}
+
+.wstepny_ekran p {
+    margin-bottom: 2em;
+    font-style: italic;
+    color: #444;
+}
